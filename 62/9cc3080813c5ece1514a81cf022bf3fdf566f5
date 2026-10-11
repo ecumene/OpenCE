@@ -1,0 +1,60 @@
+port/linux/src/d3d8_gl.c
+  s_c89cec5a4006a1::t_60439ed0b96223 4419,4428,4430-4433,4435,4437,4439-4441,4450,4452,4454-4456,4463,4465,4493,4496,4560,4563
+  s_6517345e9a6ebb::t_b91f2f3b47b8c2 4424
+  s_6517345e9a6ebb::t_f2cb4c798b6039 4420-4423,4464,4494-4495,4561-4562
+  s_6517345e9a6ebb::t_fec8b965d83498 4425-4427,4429,4434,4436,4438,4442-4449,4451,4453
+  s_c89cec5a4006a1::t_d308c8ff41abf6 5052-5053
+  s_c89cec5a4006a1::t_40a1b201ac4531 25,28,1745,1748,2713,2717,2736-2757,2760-2768,2800-2802,2804,2910-2912,2917-2923,5050-5051,5066-5067,5074,5076-5090,5092,5095,5116,5118-5142,5144,5147,5153,5195,5199-5200
+  s_c89cec5a4006a1::t_9d88c26278c936 26-27,1746-1747,2714-2715
+port/linux/include/halo_linux_source_fixups.h
+  s_c89cec5a4006a1::t_40a1b201ac4531 62-63
+"source/saved games/game_state.c"
+  s_c89cec5a4006a1::t_842dbf8ffe40fc 327-329,331,333,335
+source/rasterizer/xbox/rasterizer_xbox_vertex_shaders_initialize.c
+  s_c89cec5a4006a1::t_40a1b201ac4531 194-198
+tools/test_web_checkpoint_cadence.py
+  s_c89cec5a4006a1::t_842dbf8ffe40fc 1-149
+tools/test_web_vertex_prewarm.py
+  s_c89cec5a4006a1::t_40a1b201ac4531 1-149
+port/linux/game/hud_hires_tags.c
+  s_c89cec5a4006a1::t_40a1b201ac4531 40-42,146-152
+tools/test_web_index_cache.py
+  s_c89cec5a4006a1::t_40a1b201ac4531 1-212
+port/linux/src/hud_hires.c
+  s_c89cec5a4006a1::t_40a1b201ac4531 33-36,379-393
+port/linux/src/hud_hires.h
+  s_c89cec5a4006a1::t_40a1b201ac4531 65-68
+tools/test_web_shader_sources.py
+  s_c89cec5a4006a1::t_40a1b201ac4531 2-11,18-19,25-27,29
+  s_c89cec5a4006a1::t_633ec2dd024c79 1,12-17,20-24,28
+port/linux/include/web_shader_cache.h
+  s_c89cec5a4006a1::t_e7d304c01eeb94 1-11
+port/web/src/web_shader_cache.c
+  s_c89cec5a4006a1::t_e7634d78886e9d 1-333
+tools/test_web_shader_cache.py
+  s_c89cec5a4006a1::t_0032f0c2b9c861 1-302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "629cc3080813c5ece1514a81cf022bf3fdf566f5",
+  "prompts": {},
+  "sessions": {
+    "s_6517345e9a6ebb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ab8c912f-ca30-4a31-8df0-33dd14563f2f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    },
+    "s_c89cec5a4006a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12b2f-62a4-7be3-ab5c-ab5a183da720",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    }
+  }
+}
