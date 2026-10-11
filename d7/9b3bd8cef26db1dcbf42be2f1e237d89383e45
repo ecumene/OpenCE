@@ -1,0 +1,19 @@
+.github/workflows/build.yml
+  s_c89cec5a4006a1::t_91d9b40bf165f3 290,312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d79b3bd8cef26db1dcbf42be2f1e237d89383e45",
+  "prompts": {},
+  "sessions": {
+    "s_c89cec5a4006a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12b2f-62a4-7be3-ab5c-ab5a183da720",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    }
+  }
+}
