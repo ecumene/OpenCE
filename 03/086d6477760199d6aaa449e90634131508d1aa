@@ -1,0 +1,21 @@
+port/linux/src/d3d8_gl.c
+  s_c89cec5a4006a1::t_60439ed0b96223 4362-4431,4438-4442,4458-4468,4481-4491,4555-4566
+tools/test_web_transient_buffers.py
+  s_c89cec5a4006a1::t_926229d79c921f 1-483
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "03086d6477760199d6aaa449e90634131508d1aa",
+  "prompts": {},
+  "sessions": {
+    "s_c89cec5a4006a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12b2f-62a4-7be3-ab5c-ab5a183da720",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    }
+  }
+}
