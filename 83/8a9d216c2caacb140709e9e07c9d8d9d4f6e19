@@ -1,0 +1,23 @@
+port/web/README.md
+  s_c89cec5a4006a1::t_a2339fd7182011 187
+.github/workflows/build.yml
+  s_c89cec5a4006a1::t_c0612d7184b267 290,312
+port/linux/src/d3d8_gl.c
+  s_c89cec5a4006a1::t_c0612d7184b267 5010
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "838a9d216c2caacb140709e9e07c9d8d9d4f6e19",
+  "prompts": {},
+  "sessions": {
+    "s_c89cec5a4006a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12b2f-62a4-7be3-ab5c-ab5a183da720",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    }
+  }
+}
