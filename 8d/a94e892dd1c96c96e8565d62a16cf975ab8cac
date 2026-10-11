@@ -1,0 +1,30 @@
+port/linux/src/d3d8_gl.c
+  s_c89cec5a4006a1::t_60439ed0b96223 4362,4371,4373-4376,4378,4380,4382-4384,4393,4395,4397-4399,4406,4408,4436,4439,4503,4506
+  s_6517345e9a6ebb::t_b91f2f3b47b8c2 4367
+  s_6517345e9a6ebb::t_f2cb4c798b6039 4363-4366,4407,4437-4438,4504-4505
+  s_6517345e9a6ebb::t_fec8b965d83498 4368-4370,4372,4377,4379,4381,4385-4392,4394,4396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8da94e892dd1c96c96e8565d62a16cf975ab8cac",
+  "prompts": {},
+  "sessions": {
+    "s_6517345e9a6ebb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ab8c912f-ca30-4a31-8df0-33dd14563f2f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    },
+    "s_c89cec5a4006a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12b2f-62a4-7be3-ab5c-ab5a183da720",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Mitchell Hynes <mitch@spellbook.legal>"
+    }
+  }
+}
